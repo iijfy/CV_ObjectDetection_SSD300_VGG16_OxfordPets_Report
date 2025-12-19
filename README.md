@@ -2,7 +2,7 @@
 
 ---
 
-📌 1. 프로젝트 목적
+## 📌 프로젝트 목적
 Oxford-IIIT Pet 데이터셋의 XML 바운딩박스를 이용해,
 SSD300(VGG16 backbone) 모델로 개/고양이 얼굴 영역을 감지(Object Detection)하는 프로젝트입니다.
 
